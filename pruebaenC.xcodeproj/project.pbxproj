@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		82D11AAB19B8CF5A00CDE1D5 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 82D11AAA19B8CF5A00CDE1D5 /* main.c */; };
 		82D11AAD19B8CF5A00CDE1D5 /* pruebaenC.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 82D11AAC19B8CF5A00CDE1D5 /* pruebaenC.1 */; };
+		82D11AB819BAB74600CDE1D5 /* tama_enteros.c in Sources */ = {isa = PBXBuildFile; fileRef = 82D11AB719BAB74600CDE1D5 /* tama_enteros.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,7 @@
 		82D11AA719B8CF5A00CDE1D5 /* pruebaenC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = pruebaenC; sourceTree = BUILT_PRODUCTS_DIR; };
 		82D11AAA19B8CF5A00CDE1D5 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		82D11AAC19B8CF5A00CDE1D5 /* pruebaenC.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = pruebaenC.1; sourceTree = "<group>"; };
+		82D11AB719BAB74600CDE1D5 /* tama_enteros.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = tama_enteros.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				82D11AAA19B8CF5A00CDE1D5 /* main.c */,
 				82D11AAC19B8CF5A00CDE1D5 /* pruebaenC.1 */,
+				82D11AB719BAB74600CDE1D5 /* tama_enteros.c */,
 			);
 			path = pruebaenC;
 			sourceTree = "<group>";
@@ -118,6 +121,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				82D11AAB19B8CF5A00CDE1D5 /* main.c in Sources */,
+				82D11AB819BAB74600CDE1D5 /* tama_enteros.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
